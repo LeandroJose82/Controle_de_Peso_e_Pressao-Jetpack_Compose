@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Controle de Peso e Pressão (Jetpack Compose)</string>
+    <string name="Peso">Peso</string>
+</resources>
